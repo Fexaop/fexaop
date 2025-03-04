@@ -21,8 +21,8 @@
 ## 💫 About Me
 
 ```typescript
-const gaurish = {
-  age: 17,
+const gunit = {
+  age: 18,
   location: "India",
   education: {
     current: "JEE Aspirant",
