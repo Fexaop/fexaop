@@ -6,7 +6,7 @@
     <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;JEE+Aspirant;Open+Source+Enthusiast;Computational+Thinking;Problem+Solver" alt="Typing SVG" />
   </p>
 
-  <a href="https://github.com/gaurishmehra"><img src="https://img.shields.io/github/followers/gaurishmehra?label=Follow&style=social" alt="GitHub followers"></a>
+  <a href="https://github.com/fexaop"><img src="https://img.shields.io/github/followers/gaurishmehra?label=Follow&style=social" alt="GitHub followers"></a>
   
   <!-- Profile View Counter -->
   <img src="https://komarev.com/ghpvc/?username=gaurishmehra&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter"/>
